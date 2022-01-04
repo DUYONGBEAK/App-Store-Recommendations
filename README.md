@@ -22,29 +22,29 @@ date: "2022년 01월"
 
 * pricing_plans.csv
   * 앱의 요금제
-  * 
+
 * reviews.csv
   * 관련 앱에 대한 사용자 의견(평점 및 댓글)에 대한 정보
 
 ## 01 Data Preprocessing
   
   
-## 02 Data Check
+## 02 rating based collaborating filtering
  
  
-## 03 Train Data와 Test Data로 분리
+## 03 history based collaborating filtering
  
  
-## 04 Feature Extraction
+## 04 review & answer based collaborating filtering
 
 
-## 05 K-Means를 이용한 clustering
+## 05 wide & deep recommend model
 
 
-## 06 보험사기자 예측을 위한 Classification Model생성 
+## 06 Factorization Machines 
 
 
-## 07 DecisionTree를 Graphviz통해 모델의 의사결정을 시각화
+## 07 Field-aware Factorization Machines
 
 
 ## License
